@@ -2,6 +2,8 @@
 
 Samaritan GPT is a proof of concept project inspired by the 'Person of Interest' television show. It is designed to mimic the Samaritan artificial intelligence from the series. The project can be connected to either the OpenAI API or the Ollama API for personal use with model files that help set up the Samaritan character.
 
+![UI Preview](public/image.png)
+
 ## Technologies Used
 
 - Next.js
